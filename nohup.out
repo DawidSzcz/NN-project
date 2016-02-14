@@ -635,3 +635,68 @@
 [I 15:41:22.724 NotebookApp] Saving file at /Newproject.ipynb
 [I 15:41:24.670 NotebookApp] Saving file at /Newproject.ipynb
 [I 15:41:26.230 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:44:21.966 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 15:44:38.341 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:45:38.763 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+---------------------------------------------------------------------------
+IOError                                   Traceback (most recent call last)
+/pio/os/anaconda/lib/python2.7/atexit.py in _run_exitfuncs()
+     22         func, targs, kargs = _exithandlers.pop()
+     23         try:
+---> 24             func(*targs, **kargs)
+        func = <function shutdown at 0x7f63baf91140>
+        targs = ()
+        kargs = {}
+     25         except SystemExit:
+     26             exc_info = sys.exc_info()
+
+/home/i258352/nn_assignments/libs/Theano/theano/gof/cmodule.pyc in _on_atexit(self=<theano.gof.cmodule.ModuleCache object>)
+   1470     def _on_atexit(self):
+   1471         # Note: no need to call refresh() since it is called by clear_old().
+-> 1472         with compilelock.lock_ctx():
+        global compilelock.lock_ctx = <function lock_ctx at 0x7f638f4ba668>
+   1473             self.clear_old()
+   1474             self.clear_unversioned()
+
+/pio/os/anaconda/lib/python2.7/contextlib.py in __enter__(self=<contextlib.GeneratorContextManager object>)
+     15     def __enter__(self):
+     16         try:
+---> 17             return self.gen.next()
+        self.gen.next = <method-wrapper 'next' of generator object at 0x7f6356184dc0>
+     18         except StopIteration:
+     19             raise RuntimeError("generator didn't yield")
+
+/home/i258352/nn_assignments/libs/Theano/theano/gof/compilelock.pyc in lock_ctx(lock_dir=None, keep_lock=False, **kw={})
+     56 @contextmanager
+     57 def lock_ctx(lock_dir=None, keep_lock=False, **kw):
+---> 58     get_lock(lock_dir=lock_dir, **kw)
+        global get_lock = <function _get_lock at 0x7f638f4ba6e0>
+        lock_dir = None
+        kw = {}
+     59     yield
+     60     if not keep_lock:
+
+/home/i258352/nn_assignments/libs/Theano/theano/gof/compilelock.pyc in _get_lock(lock_dir='/tmp/i258352/theano.NOBACKUP/nn_compiledir_Linux...-with-debian-jessie-sid-x86_64-2.7.10-64/lock_dir', **kw={})
+    122                 lockpath = os.path.join(get_lock.lock_dir, 'lock')
+    123                 _logger.info('Refreshing lock %s', str(lockpath))
+--> 124                 refresh_lock(lockpath)
+        global refresh_lock = <function refresh_lock at 0x7f638f4ba8c0>
+        lockpath = '/tmp/i258352/theano.NOBACKUP/nn_compiledir_Linux-3.13.0-32-generic-x86_64-with-debian-jessie-sid-x86_64-2.7.10-64/lock_dir/lock'
+    125                 get_lock.start_time = now
+    126     get_lock.n_lock += 1
+
+/home/i258352/nn_assignments/libs/Theano/theano/gof/compilelock.pyc in refresh_lock(lock_file='/tmp/i258352/theano.NOBACKUP/nn_compiledir_Linux...-debian-jessie-sid-x86_64-2.7.10-64/lock_dir/lock')
+    340         hostname)
+    341     try:
+--> 342         lock_write = open(lock_file, 'w')
+        lock_write = undefined
+        global open = undefined
+        lock_file = '/tmp/i258352/theano.NOBACKUP/nn_compiledir_Linux-3.13.0-32-generic-x86_64-with-debian-jessie-sid-x86_64-2.7.10-64/lock_dir/lock'
+    343         lock_write.write(unique_id + '\n')
+    344         lock_write.close()
+
+IOError: [Errno 2] No such file or directory: '/tmp/i258352/theano.NOBACKUP/nn_compiledir_Linux-3.13.0-32-generic-x86_64-with-debian-jessie-sid-x86_64-2.7.10-64/lock_dir/lock'
+[I 15:45:57.270 NotebookApp] Kernel restarted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 15:46:38.149 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:54:54.097 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:57:01.892 NotebookApp] Saving file at /Newproject.ipynb
