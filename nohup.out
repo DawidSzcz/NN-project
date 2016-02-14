@@ -578,3 +578,60 @@
 [I 14:38:38.106 NotebookApp] Saving file at /Newproject.ipynb
 [I 14:40:38.121 NotebookApp] Saving file at /Newproject.ipynb
 [I 14:42:38.070 NotebookApp] Saving file at /Newproject.ipynb
+[I 14:43:36.264 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 14:44:38.048 NotebookApp] Saving file at /Newproject.ipynb
+[I 14:52:41.288 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 14:54:38.317 NotebookApp] Saving file at /Newproject.ipynb
+[I 14:56:38.135 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:00:38.866 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:02:38.144 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:14:38.267 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:15:39.229 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 15:16:15.737 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 15:16:38.112 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:18:38.143 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:19:23.943 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 15:20:38.084 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:22:17.928 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 15:22:38.097 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:24:09.594 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 15:24:38.103 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:26:38.174 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:27:33.950 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 15:28:38.254 NotebookApp] Saving file at /Newproject.ipynb
+[W 15:33:10.600 NotebookApp] WebSocket ping timeout after 119953 ms.
+[E 15:33:12.738 NotebookApp] Uncaught exception GET /api/kernels/b1d52b75-4551-4e67-b3bc-33d646ad3cad/channels?session_id=190260AFE53C41EABA96864BE2E0B651 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:34517', method='GET', uri='/api/kernels/b1d52b75-4551-4e67-b3bc-33d646ad3cad/channels?session_id=190260AFE53C41EABA96864BE2E0B651', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Origin': 'http://localhost:34517', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Sec-Websocket-Version': '13', 'Host': 'localhost:34517', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0', 'Connection': 'keep-alive, Upgrade', 'Sec-Websocket-Key': 'vGlqNf6jHDHc1VPLBzS7Aw==', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate'})
+    Traceback (most recent call last):
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 184, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/IPython/html/base/zmqhandlers.py", line 185, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 213, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[W 15:38:55.072 NotebookApp] WebSocket ping timeout after 119951 ms.
+[E 15:38:57.901 NotebookApp] Uncaught exception GET /api/kernels/b1d52b75-4551-4e67-b3bc-33d646ad3cad/channels?session_id=190260AFE53C41EABA96864BE2E0B651 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:34517', method='GET', uri='/api/kernels/b1d52b75-4551-4e67-b3bc-33d646ad3cad/channels?session_id=190260AFE53C41EABA96864BE2E0B651', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Origin': 'http://localhost:34517', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Sec-Websocket-Version': '13', 'Host': 'localhost:34517', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0', 'Connection': 'keep-alive, Upgrade', 'Sec-Websocket-Key': 'B4usaRylYb5R3T26Eqbp9w==', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate'})
+    Traceback (most recent call last):
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 184, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/IPython/html/base/zmqhandlers.py", line 185, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 213, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 15:41:03.937 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:41:06.591 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:41:20.509 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 15:41:22.724 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:41:24.670 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:41:26.230 NotebookApp] Saving file at /Newproject.ipynb
