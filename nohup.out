@@ -1,0 +1,580 @@
+[I 15:33:02.385 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 15:33:02.417 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 15:33:02.417 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 15:33:02.448 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 15:33:02.448 NotebookApp] 0 active kernels 
+[I 15:33:02.448 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 15:33:02.448 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:33:02.509 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:35:45.954 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 15:35:45.985 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 15:35:45.985 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 15:35:45.986 NotebookApp] The port 34517 is already in use, trying another random port.
+[I 15:35:46.012 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 15:35:46.012 NotebookApp] 0 active kernels 
+[I 15:35:46.013 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34518/
+[I 15:35:46.013 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:35:46.191 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:40:52.294 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 15:40:52.326 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 15:40:52.326 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 15:40:52.352 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 15:40:52.353 NotebookApp] 0 active kernels 
+[I 15:40:52.353 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 15:40:52.353 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:40:52.398 NotebookApp] No web browser found: could not locate runnable browser.
+[C 15:47:44.844 NotebookApp] received signal 15, stopping
+[I 15:47:44.845 NotebookApp] Shutting down kernels
+[I 15:47:59.349 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 15:47:59.381 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 15:47:59.381 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 15:47:59.408 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 15:47:59.409 NotebookApp] 0 active kernels 
+[I 15:47:59.409 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 15:47:59.409 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:47:59.446 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:48:39.658 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 15:48:39.689 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 15:48:39.690 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 15:48:39.690 NotebookApp] The port 34517 is already in use, trying another random port.
+[I 15:48:39.711 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 15:48:39.711 NotebookApp] 0 active kernels 
+[I 15:48:39.711 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34518/
+[I 15:48:39.711 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:48:40.011 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:49:48.763 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 15:49:48.793 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 15:49:48.793 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 15:49:48.794 NotebookApp] The port 34517 is already in use, trying another random port.
+[I 15:49:48.794 NotebookApp] The port 34518 is already in use, trying another random port.
+[I 15:49:48.817 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 15:49:48.817 NotebookApp] 0 active kernels 
+[I 15:49:48.817 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34519/
+[I 15:49:48.817 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:49:48.854 NotebookApp] No web browser found: could not locate runnable browser.
+[I 15:49:59.719 NotebookApp] Kernel started: cdbafb9d-df9e-4e4a-a082-8fd3cf6a802f
+[I 15:51:59.872 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:52:15.563 NotebookApp] Kernel interrupted: cdbafb9d-df9e-4e4a-a082-8fd3cf6a802f
+[I 15:53:49.403 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:53:57.876 NotebookApp] Kernel interrupted: cdbafb9d-df9e-4e4a-a082-8fd3cf6a802f
+[W 15:54:31.388 NotebookApp] WebSocket ping timeout after 119951 ms.
+[E 15:54:31.557 NotebookApp] Uncaught exception GET /api/kernels/cdbafb9d-df9e-4e4a-a082-8fd3cf6a802f/channels?session_id=A546E70F4A3F4043853174846D46716B (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:34517', method='GET', uri='/api/kernels/cdbafb9d-df9e-4e4a-a082-8fd3cf6a802f/channels?session_id=A546E70F4A3F4043853174846D46716B', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Origin': 'http://localhost:34517', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Sec-Websocket-Version': '13', 'Host': 'localhost:34517', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0', 'Connection': 'keep-alive, Upgrade', 'Sec-Websocket-Key': 'IV48NBH+yb0tv7OrrKizZw==', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate'})
+    Traceback (most recent call last):
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 184, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/IPython/html/base/zmqhandlers.py", line 185, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 213, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 16:04:05.714 NotebookApp] Kernel interrupted: cdbafb9d-df9e-4e4a-a082-8fd3cf6a802f
+[I 16:07:17.028 NotebookApp] Kernel interrupted: cdbafb9d-df9e-4e4a-a082-8fd3cf6a802f
+[C 16:11:25.753 NotebookApp] received signal 15, stopping
+[I 16:11:25.754 NotebookApp] Shutting down kernels
+[I 16:11:33.400 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 16:11:33.427 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 16:11:33.427 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 16:11:33.427 NotebookApp] The port 34517 is already in use, trying another random port.
+[I 16:11:33.427 NotebookApp] The port 34518 is already in use, trying another random port.
+[I 16:11:33.443 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 16:11:33.443 NotebookApp] 0 active kernels 
+[I 16:11:33.443 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34519/
+[I 16:11:33.443 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:11:33.486 NotebookApp] No web browser found: could not locate runnable browser.
+[I 16:16:35.803 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 16:16:35.832 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 16:16:35.832 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 16:16:35.833 NotebookApp] The port 34517 is already in use, trying another random port.
+[I 16:16:35.833 NotebookApp] The port 34518 is already in use, trying another random port.
+[I 16:16:35.863 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 16:16:35.863 NotebookApp] 0 active kernels 
+[I 16:16:35.864 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34519/
+[I 16:16:35.864 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:16:35.893 NotebookApp] No web browser found: could not locate runnable browser.
+[I 16:16:49.021 NotebookApp] Kernel started: f616c2fb-e83f-4791-968d-cada44715dce
+[I 16:18:05.055 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:18:05.990 NotebookApp] Saving file at /Newproject.ipynb
+[C 16:18:40.594 NotebookApp] received signal 15, stopping
+[I 16:18:40.595 NotebookApp] Shutting down kernels
+[I 16:18:57.716 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 16:18:57.746 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 16:18:57.746 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 16:18:57.746 NotebookApp] The port 34517 is already in use, trying another random port.
+[I 16:18:57.747 NotebookApp] The port 34518 is already in use, trying another random port.
+[I 16:18:57.774 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 16:18:57.774 NotebookApp] 0 active kernels 
+[I 16:18:57.775 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34519/
+[I 16:18:57.775 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:18:57.809 NotebookApp] No web browser found: could not locate runnable browser.
+[I 16:19:47.528 NotebookApp] Saving file at /Newproject.ipynb
+[C 16:19:54.586 NotebookApp] received signal 15, stopping
+[I 16:19:54.587 NotebookApp] Shutting down kernels
+[C 16:20:13.495 NotebookApp] received signal 15, stopping
+[I 16:20:13.496 NotebookApp] Shutting down kernels
+[C 16:20:34.341 NotebookApp] received signal 15, stopping
+[I 16:20:34.343 NotebookApp] Shutting down kernels
+[I 16:20:34.945 NotebookApp] Kernel shutdown: f616c2fb-e83f-4791-968d-cada44715dce
+[I 16:21:23.471 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 16:21:23.504 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 16:21:23.504 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 16:21:23.531 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 16:21:23.531 NotebookApp] 0 active kernels 
+[I 16:21:23.531 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 16:21:23.531 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:21:23.595 NotebookApp] No web browser found: could not locate runnable browser.
+[I 16:21:32.442 NotebookApp] Kernel started: 9f69ceea-97b3-4260-a17e-8323874aaabd
+[I 16:22:03.004 NotebookApp] Saving file at /Newproject.ipynb
+[C 16:22:17.702 NotebookApp] received signal 15, stopping
+[I 16:22:17.703 NotebookApp] Shutting down kernels
+[I 16:22:18.306 NotebookApp] Kernel shutdown: 9f69ceea-97b3-4260-a17e-8323874aaabd
+[I 16:23:14.013 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 16:23:14.045 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 16:23:14.045 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 16:23:14.073 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 16:23:14.073 NotebookApp] 0 active kernels 
+[I 16:23:14.073 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 16:23:14.073 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:23:14.108 NotebookApp] No web browser found: could not locate runnable browser.
+[I 16:23:28.882 NotebookApp] Kernel started: 7a47d15e-38b7-4b86-82bf-1ff45ded0be9
+[C 16:23:51.700 NotebookApp] received signal 15, stopping
+[I 16:23:51.701 NotebookApp] Shutting down kernels
+[I 16:23:52.303 NotebookApp] Kernel shutdown: 7a47d15e-38b7-4b86-82bf-1ff45ded0be9
+[I 16:24:09.811 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 16:24:09.843 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 16:24:09.843 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 16:24:09.868 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 16:24:09.868 NotebookApp] 0 active kernels 
+[I 16:24:09.868 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 16:24:09.868 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:24:09.906 NotebookApp] No web browser found: could not locate runnable browser.
+[I 16:24:11.451 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:24:19.439 NotebookApp] Kernel started: ff89cde4-47f6-453c-8839-64c9ab46210b
+[C 16:25:15.317 NotebookApp] received signal 15, stopping
+[I 16:25:15.318 NotebookApp] Shutting down kernels
+[I 16:25:16.121 NotebookApp] Kernel shutdown: ff89cde4-47f6-453c-8839-64c9ab46210b
+[I 16:25:26.613 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 16:25:26.643 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 16:25:26.643 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 16:25:26.672 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 16:25:26.672 NotebookApp] 0 active kernels 
+[I 16:25:26.672 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 16:25:26.672 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:25:26.710 NotebookApp] No web browser found: could not locate runnable browser.
+[W 16:25:32.710 NotebookApp] 404 GET /api/kernels/ff89cde4-47f6-453c-8839-64c9ab46210b/channels?session_id=528F0A1EFB9C47C9869AFB28E4E085F5 (127.0.0.1): Kernel does not exist: ff89cde4-47f6-453c-8839-64c9ab46210b
+[W 16:25:32.733 NotebookApp] 404 GET /api/kernels/ff89cde4-47f6-453c-8839-64c9ab46210b/channels?session_id=528F0A1EFB9C47C9869AFB28E4E085F5 (127.0.0.1) 28.53ms referer=None
+[I 16:25:33.192 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:25:42.303 NotebookApp] Kernel started: 85d8f1e3-e8e0-4a87-b1f3-6124854ddb8f
+[I 16:27:42.415 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:27:56.474 NotebookApp] Kernel interrupted: 85d8f1e3-e8e0-4a87-b1f3-6124854ddb8f
+[I 16:28:11.842 NotebookApp] Kernel restarted: 85d8f1e3-e8e0-4a87-b1f3-6124854ddb8f
+[I 16:28:42.968 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:29:11.752 NotebookApp] Kernel interrupted: 85d8f1e3-e8e0-4a87-b1f3-6124854ddb8f
+[I 16:29:32.511 NotebookApp] Kernel interrupted: 85d8f1e3-e8e0-4a87-b1f3-6124854ddb8f
+[I 16:29:35.845 NotebookApp] Kernel interrupted: 85d8f1e3-e8e0-4a87-b1f3-6124854ddb8f
+[I 16:29:40.399 NotebookApp] Kernel restarted: 85d8f1e3-e8e0-4a87-b1f3-6124854ddb8f
+[I 16:29:42.582 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:29:56.679 NotebookApp] Kernel interrupted: 85d8f1e3-e8e0-4a87-b1f3-6124854ddb8f
+[I 16:30:51.639 NotebookApp] Saving file at /Newproject.ipynb
+[C 16:30:57.481 NotebookApp] received signal 15, stopping
+[I 16:30:57.482 NotebookApp] Shutting down kernels
+[I 16:30:58.568 NotebookApp] Kernel shutdown: 85d8f1e3-e8e0-4a87-b1f3-6124854ddb8f
+[I 16:31:10.523 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 16:31:10.554 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 16:31:10.554 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 16:31:10.583 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 16:31:10.583 NotebookApp] 0 active kernels 
+[I 16:31:10.584 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 16:31:10.584 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:31:10.628 NotebookApp] No web browser found: could not locate runnable browser.
+[I 16:31:19.286 NotebookApp] Kernel started: 7a864c04-4e00-4acc-b356-ddf91c7366c6
+[I 16:33:19.605 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:40:48.418 NotebookApp] Kernel interrupted: 7a864c04-4e00-4acc-b356-ddf91c7366c6
+[I 16:41:19.434 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:53:49.774 NotebookApp] Kernel interrupted: 7a864c04-4e00-4acc-b356-ddf91c7366c6
+[I 16:55:19.451 NotebookApp] Saving file at /Newproject.ipynb
+[W 17:02:21.523 NotebookApp] WebSocket ping timeout after 119945 ms.
+[E 17:02:25.165 NotebookApp] Uncaught exception GET /api/kernels/7a864c04-4e00-4acc-b356-ddf91c7366c6/channels?session_id=B8DCD48EB42449BB8673D715365C9ACA (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:34517', method='GET', uri='/api/kernels/7a864c04-4e00-4acc-b356-ddf91c7366c6/channels?session_id=B8DCD48EB42449BB8673D715365C9ACA', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Origin': 'http://localhost:34517', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Sec-Websocket-Version': '13', 'Host': 'localhost:34517', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0', 'Connection': 'keep-alive, Upgrade', 'Sec-Websocket-Key': 'wGja+boXG27m8gsyjs+Tlg==', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate'})
+    Traceback (most recent call last):
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 184, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/IPython/html/base/zmqhandlers.py", line 185, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 213, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 17:04:00.546 NotebookApp] Kernel interrupted: 7a864c04-4e00-4acc-b356-ddf91c7366c6
+[I 17:04:57.735 NotebookApp] Saving file at /Newproject.ipynb
+[I 17:08:00.923 NotebookApp] Kernel interrupted: 7a864c04-4e00-4acc-b356-ddf91c7366c6
+[I 17:08:57.736 NotebookApp] Saving file at /Newproject.ipynb
+[I 17:10:57.716 NotebookApp] Saving file at /Newproject.ipynb
+[C 17:19:40.511 NotebookApp] received signal 15, stopping
+[I 17:19:40.512 NotebookApp] Shutting down kernels
+[I 17:19:41.603 NotebookApp] Kernel shutdown: 7a864c04-4e00-4acc-b356-ddf91c7366c6
+[I 17:20:25.435 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 17:20:25.466 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 17:20:25.466 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 17:20:25.495 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 17:20:25.495 NotebookApp] 0 active kernels 
+[I 17:20:25.495 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 17:20:25.495 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 17:20:25.526 NotebookApp] No web browser found: could not locate runnable browser.
+[I 17:22:52.185 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 17:22:52.217 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 17:22:52.218 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 17:22:52.218 NotebookApp] The port 34517 is already in use, trying another random port.
+[I 17:22:52.219 NotebookApp] The port 34518 is already in use, trying another random port.
+[I 17:22:52.219 NotebookApp] The port 34519 is already in use, trying another random port.
+[I 17:22:52.244 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 17:22:52.244 NotebookApp] 0 active kernels 
+[I 17:22:52.244 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34520/
+[I 17:22:52.244 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 17:22:52.304 NotebookApp] No web browser found: could not locate runnable browser.
+[I 17:23:39.668 NotebookApp] Kernel interrupted: cdbafb9d-df9e-4e4a-a082-8fd3cf6a802f
+[I 17:25:20.371 NotebookApp] Saving file at /Newproject.ipynb
+[I 17:33:11.638 NotebookApp] Kernel interrupted: cdbafb9d-df9e-4e4a-a082-8fd3cf6a802f
+[I 17:33:20.287 NotebookApp] Saving file at /Newproject.ipynb
+[I 17:35:20.332 NotebookApp] Saving file at /Newproject.ipynb
+[I 19:27:20.534 NotebookApp] Saving file at /Newproject.ipynb
+[I 20:09:20.550 NotebookApp] Saving file at /Newproject.ipynb
+[I 02:42:46.284 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 02:42:46.317 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 02:42:46.317 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 02:42:46.347 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 02:42:46.347 NotebookApp] 0 active kernels 
+[I 02:42:46.347 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 02:42:46.347 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 02:42:46.379 NotebookApp] No web browser found: could not locate runnable browser.
+[I 02:42:57.644 NotebookApp] Kernel started: 0180c2c1-ed40-4e04-9ea6-5869da39c167
+[I 02:44:57.765 NotebookApp] Saving file at /Newproject.ipynb
+[I 02:51:39.939 NotebookApp] Kernel interrupted: 0180c2c1-ed40-4e04-9ea6-5869da39c167
+[I 02:52:57.838 NotebookApp] Saving file at /Newproject.ipynb
+[W 02:55:59.551 NotebookApp] WebSocket ping timeout after 119952 ms.
+[E 02:56:03.611 NotebookApp] Uncaught exception GET /api/kernels/0180c2c1-ed40-4e04-9ea6-5869da39c167/channels?session_id=C513C27BE2D24A9F88298549502C254A (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:34517', method='GET', uri='/api/kernels/0180c2c1-ed40-4e04-9ea6-5869da39c167/channels?session_id=C513C27BE2D24A9F88298549502C254A', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Origin': 'http://localhost:34517', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Sec-Websocket-Version': '13', 'Host': 'localhost:34517', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0', 'Connection': 'keep-alive, Upgrade', 'Sec-Websocket-Key': 'imuIj+hLAgCafTtykM6obg==', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate'})
+    Traceback (most recent call last):
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 184, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/IPython/html/base/zmqhandlers.py", line 185, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 213, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[W 02:59:26.723 NotebookApp] WebSocket ping timeout after 119952 ms.
+[E 02:59:26.986 NotebookApp] Uncaught exception GET /api/kernels/0180c2c1-ed40-4e04-9ea6-5869da39c167/channels?session_id=C513C27BE2D24A9F88298549502C254A (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:34517', method='GET', uri='/api/kernels/0180c2c1-ed40-4e04-9ea6-5869da39c167/channels?session_id=C513C27BE2D24A9F88298549502C254A', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Origin': 'http://localhost:34517', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Sec-Websocket-Version': '13', 'Host': 'localhost:34517', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0', 'Connection': 'keep-alive, Upgrade', 'Sec-Websocket-Key': 'vHqs1bh6L6TIKgo+gY4lPQ==', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate'})
+    Traceback (most recent call last):
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 184, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/IPython/html/base/zmqhandlers.py", line 185, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 213, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 03:03:08.114 NotebookApp] Kernel interrupted: 0180c2c1-ed40-4e04-9ea6-5869da39c167
+[I 03:03:28.965 NotebookApp] Saving file at /Newproject.ipynb
+[I 03:12:45.019 NotebookApp] Kernel restarted: 0180c2c1-ed40-4e04-9ea6-5869da39c167
+[I 03:13:05.152 NotebookApp] Kernel interrupted: 0180c2c1-ed40-4e04-9ea6-5869da39c167
+[I 03:14:39.079 NotebookApp] Saving file at /Newproject.ipynb
+[I 03:16:39.120 NotebookApp] Saving file at /Newproject.ipynb
+[W 03:22:45.145 NotebookApp] WebSocket ping timeout after 119953 ms.
+[E 03:22:46.832 NotebookApp] Uncaught exception GET /api/kernels/0180c2c1-ed40-4e04-9ea6-5869da39c167/channels?session_id=1B75599614A747E783570BA26992AF6F (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:34517', method='GET', uri='/api/kernels/0180c2c1-ed40-4e04-9ea6-5869da39c167/channels?session_id=1B75599614A747E783570BA26992AF6F', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Origin': 'http://localhost:34517', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Sec-Websocket-Version': '13', 'Host': 'localhost:34517', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0', 'Connection': 'keep-alive, Upgrade', 'Sec-Websocket-Key': '18As+lVDK+TyDnYmxkV1Uw==', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate'})
+    Traceback (most recent call last):
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 184, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/IPython/html/base/zmqhandlers.py", line 185, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 213, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 03:27:28.150 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 03:27:28.177 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 03:27:28.177 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 03:27:28.177 NotebookApp] The port 34517 is already in use, trying another random port.
+[I 03:27:28.196 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 03:27:28.196 NotebookApp] 0 active kernels 
+[I 03:27:28.196 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34518/
+[I 03:27:28.196 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 03:27:28.267 NotebookApp] No web browser found: could not locate runnable browser.
+[I 03:27:46.189 NotebookApp] Saving file at /Newproject.ipynb
+[C 03:28:03.220 NotebookApp] received signal 15, stopping
+[I 03:28:03.221 NotebookApp] Shutting down kernels
+[I 03:28:13.434 NotebookApp] Kernel restarted: 0180c2c1-ed40-4e04-9ea6-5869da39c167
+[I 03:29:46.142 NotebookApp] Saving file at /Newproject.ipynb
+[I 03:38:44.571 NotebookApp] Saving file at /Newproject.ipynb
+[I 03:40:52.511 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 03:40:52.543 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 03:40:52.543 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 03:40:52.570 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 03:40:52.570 NotebookApp] 0 active kernels 
+[I 03:40:52.570 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 03:40:52.570 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 03:40:52.753 NotebookApp] No web browser found: could not locate runnable browser.
+[I 03:40:56.834 NotebookApp] Saving file at /Newproject.ipynb
+[I 03:41:01.001 NotebookApp] Kernel started: 0209b66b-3dd6-4637-befc-4ae2539131f2
+[I 03:43:01.196 NotebookApp] Saving file at /Newproject.ipynb
+[W 03:46:33.418 NotebookApp] WebSocket ping timeout after 119952 ms.
+[E 03:46:38.062 NotebookApp] Uncaught exception GET /api/kernels/0209b66b-3dd6-4637-befc-4ae2539131f2/channels?session_id=DF77E1A22B75405B8078C2FB0CFA0688 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:34517', method='GET', uri='/api/kernels/0209b66b-3dd6-4637-befc-4ae2539131f2/channels?session_id=DF77E1A22B75405B8078C2FB0CFA0688', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Origin': 'http://localhost:34517', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Sec-Websocket-Version': '13', 'Host': 'localhost:34517', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0', 'Connection': 'keep-alive, Upgrade', 'Sec-Websocket-Key': '8UwUaIik4dA4ElQIrao3Ww==', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate'})
+    Traceback (most recent call last):
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 184, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/IPython/html/base/zmqhandlers.py", line 185, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 213, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 03:53:01.168 NotebookApp] Saving file at /Newproject.ipynb
+[I 03:53:39.510 NotebookApp] Kernel interrupted: 0209b66b-3dd6-4637-befc-4ae2539131f2
+[I 03:54:42.038 NotebookApp] Kernel interrupted: 0209b66b-3dd6-4637-befc-4ae2539131f2
+[I 03:54:48.808 NotebookApp] Kernel interrupted: 0209b66b-3dd6-4637-befc-4ae2539131f2
+[I 03:55:01.156 NotebookApp] Saving file at /Newproject.ipynb
+[I 03:55:13.283 NotebookApp] Saving file at /Newproject.ipynb
+[I 03:55:18.635 NotebookApp] Kernel restarted: 0209b66b-3dd6-4637-befc-4ae2539131f2
+[I 03:57:01.181 NotebookApp] Saving file at /Newproject.ipynb
+[I 04:00:20.587 NotebookApp] Kernel interrupted: 0209b66b-3dd6-4637-befc-4ae2539131f2
+[W 04:01:53.893 NotebookApp] 404 GET /api/kernels/0209b66b-3dd6-4637-befc-4ae2539131f2/channels?session_id=DF77E1A22B75405B8078C2FB0CFA0688 (127.0.0.1): Kernel does not exist: 0209b66b-3dd6-4637-befc-4ae2539131f2
+[W 04:01:53.899 NotebookApp] 404 GET /api/kernels/0209b66b-3dd6-4637-befc-4ae2539131f2/channels?session_id=DF77E1A22B75405B8078C2FB0CFA0688 (127.0.0.1) 7.18ms referer=None
+[C 04:02:01.436 NotebookApp] received signal 15, stopping
+[I 04:02:01.437 NotebookApp] Shutting down kernels
+[I 04:02:02.556 NotebookApp] Kernel shutdown: 0180c2c1-ed40-4e04-9ea6-5869da39c167
+[I 04:02:53.520 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 04:02:53.553 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 04:02:53.553 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 04:02:53.584 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 04:02:53.584 NotebookApp] 0 active kernels 
+[I 04:02:53.584 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 04:02:53.584 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 04:02:53.621 NotebookApp] No web browser found: could not locate runnable browser.
+[I 04:03:00.069 NotebookApp] Saving file at /Newproject.ipynb
+[I 04:03:04.228 NotebookApp] Kernel started: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 04:05:04.386 NotebookApp] Saving file at /Newproject.ipynb
+[I 04:09:57.923 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 04:11:04.444 NotebookApp] Saving file at /Newproject.ipynb
+[I 04:13:04.338 NotebookApp] Saving file at /Newproject.ipynb
+[I 04:13:08.012 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 04:15:04.342 NotebookApp] Saving file at /Newproject.ipynb
+[I 04:21:40.826 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 04:23:04.348 NotebookApp] Saving file at /Newproject.ipynb
+[I 04:36:13.116 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 04:37:04.572 NotebookApp] Saving file at /Newproject.ipynb
+[I 04:41:04.411 NotebookApp] Saving file at /Newproject.ipynb
+[I 04:42:44.671 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 04:43:04.408 NotebookApp] Saving file at /Newproject.ipynb
+[I 04:52:50.205 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 04:53:04.376 NotebookApp] Saving file at /Newproject.ipynb
+[W 04:56:36.132 NotebookApp] WebSocket ping timeout after 119953 ms.
+[E 04:56:40.123 NotebookApp] Uncaught exception GET /api/kernels/95637ddf-8281-4552-9720-7a056a54eee6/channels?session_id=8179A8556E514934B650B6479D98F5B0 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:34517', method='GET', uri='/api/kernels/95637ddf-8281-4552-9720-7a056a54eee6/channels?session_id=8179A8556E514934B650B6479D98F5B0', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Origin': 'http://localhost:34517', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Sec-Websocket-Version': '13', 'Host': 'localhost:34517', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0', 'Connection': 'keep-alive, Upgrade', 'Sec-Websocket-Key': 'PBao2fMKeVvzIVDQTWarxA==', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate'})
+    Traceback (most recent call last):
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 184, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/IPython/html/base/zmqhandlers.py", line 185, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 213, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 05:06:44.596 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 05:07:00.991 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 05:07:04.410 NotebookApp] Saving file at /Newproject.ipynb
+[I 05:07:32.029 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 05:07:32.223 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 05:07:32.407 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 05:07:32.582 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 05:07:32.741 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 05:07:32.897 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 05:07:33.088 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 05:07:39.237 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 05:07:47.715 NotebookApp] Kernel restarted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 05:07:55.046 NotebookApp] Kernel interrupted: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 05:09:04.468 NotebookApp] Saving file at /Newproject.ipynb
+[W 05:13:32.242 NotebookApp] 404 GET /api/kernels/95637ddf-8281-4552-9720-7a056a54eee6/channels?session_id=8179A8556E514934B650B6479D98F5B0 (127.0.0.1): Kernel does not exist: 95637ddf-8281-4552-9720-7a056a54eee6
+[W 05:13:32.254 NotebookApp] 404 GET /api/kernels/95637ddf-8281-4552-9720-7a056a54eee6/channels?session_id=8179A8556E514934B650B6479D98F5B0 (127.0.0.1) 16.96ms referer=None
+[I 05:14:06.451 NotebookApp] Kernel interrupted: 0209b66b-3dd6-4637-befc-4ae2539131f2
+[I 05:14:09.756 NotebookApp] Saving file at /Newproject.ipynb
+[C 05:14:27.390 NotebookApp] received signal 15, stopping
+[I 05:14:27.391 NotebookApp] Shutting down kernels
+[I 05:14:28.194 NotebookApp] Kernel shutdown: 0209b66b-3dd6-4637-befc-4ae2539131f2
+[I 05:15:27.828 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 05:15:27.860 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 05:15:27.860 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 05:15:27.887 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 05:15:27.887 NotebookApp] 0 active kernels 
+[I 05:15:27.887 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 05:15:27.887 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 05:15:27.940 NotebookApp] No web browser found: could not locate runnable browser.
+[I 05:15:43.013 NotebookApp] Kernel started: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 05:17:43.205 NotebookApp] Saving file at /Newproject.ipynb
+[I 05:25:42.098 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 05:25:43.160 NotebookApp] Saving file at /Newproject.ipynb
+[I 05:27:43.206 NotebookApp] Saving file at /Newproject.ipynb
+[I 05:37:43.218 NotebookApp] Saving file at /Newproject.ipynb
+[I 05:39:43.222 NotebookApp] Saving file at /Newproject.ipynb
+[I 05:41:32.571 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 05:41:43.184 NotebookApp] Saving file at /Newproject.ipynb
+[I 05:42:02.068 NotebookApp] Saving file at /Newproject.ipynb
+[I 05:49:33.132 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 05:49:43.194 NotebookApp] Saving file at /Newproject.ipynb
+[I 05:51:43.272 NotebookApp] Saving file at /Newproject.ipynb
+[W 06:36:14.712 NotebookApp] WebSocket ping timeout after 119954 ms.
+[I 07:15:43.396 NotebookApp] Saving file at /Newproject.ipynb
+[I 07:17:40.346 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 07:18:58.373 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 07:19:04.257 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 07:19:10.266 NotebookApp] Saving file at /Newproject.ipynb
+[I 07:19:21.965 NotebookApp] Kernel restarted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 07:19:43.347 NotebookApp] Saving file at /Newproject.ipynb
+[I 07:21:43.343 NotebookApp] Saving file at /Newproject.ipynb
+[I 08:05:43.475 NotebookApp] Saving file at /Newproject.ipynb
+[W 09:04:52.320 NotebookApp] WebSocket ping timeout after 119952 ms.
+[I 11:54:09.250 NotebookApp] Kernel restarted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 11:54:45.907 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 11:55:43.700 NotebookApp] Saving file at /Newproject.ipynb
+[I 11:57:43.739 NotebookApp] Saving file at /Newproject.ipynb
+[I 11:58:08.459 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 11:59:43.951 NotebookApp] Saving file at /Newproject.ipynb
+[I 12:00:53.137 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:01:43.748 NotebookApp] Saving file at /Newproject.ipynb
+[I 12:04:36.588 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:05:05.573 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:05:43.725 NotebookApp] Saving file at /Newproject.ipynb
+[I 12:12:11.059 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:13:43.774 NotebookApp] Saving file at /Newproject.ipynb
+[W 12:20:09.828 NotebookApp] WebSocket ping timeout after 119892 ms.
+[I 12:23:43.972 NotebookApp] Saving file at /Newproject.ipynb
+[I 12:24:29.337 NotebookApp] Kernel restarted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:25:43.751 NotebookApp] Saving file at /Newproject.ipynb
+[I 12:26:13.199 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:26:20.029 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:27:43.727 NotebookApp] Saving file at /Newproject.ipynb
+[I 12:29:43.793 NotebookApp] Saving file at /Newproject.ipynb
+[I 12:30:30.384 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:30:41.135 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:30:59.517 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:31:05.379 NotebookApp] Kernel restarted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:31:43.743 NotebookApp] Saving file at /Newproject.ipynb
+[I 12:32:30.449 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:33:31.562 NotebookApp] Kernel interrupted: 6e36fb0a-000e-4b03-b3e5-715c9948c1eb
+[I 12:33:43.750 NotebookApp] Saving file at /Newproject.ipynb
+[I 12:34:17.157 NotebookApp] Saving file at /Newproject.ipynb
+[I 12:47:43.822 NotebookApp] Saving file at /Newproject.ipynb
+[C 12:47:55.593 NotebookApp] received signal 15, stopping
+[I 12:47:55.594 NotebookApp] Shutting down kernels
+[I 12:47:56.396 NotebookApp] Kernel shutdown: 95637ddf-8281-4552-9720-7a056a54eee6
+[I 12:48:12.844 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 12:48:12.870 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 12:48:12.870 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 12:48:12.891 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 12:48:12.891 NotebookApp] 0 active kernels 
+[I 12:48:12.891 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 12:48:12.891 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:48:12.937 NotebookApp] No web browser found: could not locate runnable browser.
+[I 12:48:25.528 NotebookApp] Kernel started: 1da920b2-eeb4-400b-8c0b-dc3df50fd8db
+[I 12:50:26.021 NotebookApp] Saving file at /Newproject.ipynb
+[C 12:50:51.065 NotebookApp] received signal 15, stopping
+[I 12:50:51.066 NotebookApp] Shutting down kernels
+[I 12:50:51.667 NotebookApp] Kernel shutdown: 1da920b2-eeb4-400b-8c0b-dc3df50fd8db
+[W 12:51:23.196 NotebookApp] 404 GET /api/kernels/1da920b2-eeb4-400b-8c0b-dc3df50fd8db/channels?session_id=DC01393EE1F64D0CA0D3DFE98504266D (127.0.0.1): Kernel does not exist: 1da920b2-eeb4-400b-8c0b-dc3df50fd8db
+[W 12:51:23.202 NotebookApp] 404 GET /api/kernels/1da920b2-eeb4-400b-8c0b-dc3df50fd8db/channels?session_id=DC01393EE1F64D0CA0D3DFE98504266D (127.0.0.1) 7.37ms referer=None
+[I 12:52:01.951 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 12:52:01.979 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 12:52:01.979 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 12:52:02.001 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 12:52:02.001 NotebookApp] 0 active kernels 
+[I 12:52:02.001 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 12:52:02.001 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:52:02.042 NotebookApp] No web browser found: could not locate runnable browser.
+[I 12:52:06.117 NotebookApp] Saving file at /Newproject.ipynb
+[I 12:52:15.947 NotebookApp] Kernel started: 9f87a72e-1e20-4073-8d60-cc86332f50c7
+[C 12:52:51.671 NotebookApp] received signal 15, stopping
+[I 12:52:51.672 NotebookApp] Shutting down kernels
+[I 12:52:52.173 NotebookApp] Kernel shutdown: 9f87a72e-1e20-4073-8d60-cc86332f50c7
+[I 12:53:07.033 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 12:53:07.061 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 12:53:07.061 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 12:53:07.081 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 12:53:07.081 NotebookApp] 0 active kernels 
+[I 12:53:07.081 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 12:53:07.082 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:53:07.124 NotebookApp] No web browser found: could not locate runnable browser.
+[I 12:53:15.612 NotebookApp] Kernel started: dccef469-bff3-4239-b505-3dc6995fdfa5
+[I 12:53:28.538 NotebookApp] Kernel interrupted: dccef469-bff3-4239-b505-3dc6995fdfa5
+[I 12:53:32.898 NotebookApp] Kernel restarted: dccef469-bff3-4239-b505-3dc6995fdfa5
+[I 12:53:48.765 NotebookApp] Kernel shutdown: dccef469-bff3-4239-b505-3dc6995fdfa5
+[I 12:53:54.527 NotebookApp] Kernel started: 34d47a3f-a8f9-4f9e-b6e6-1a1b477f184b
+[I 12:54:19.511 NotebookApp] Kernel shutdown: 34d47a3f-a8f9-4f9e-b6e6-1a1b477f184b
+[C 12:54:26.985 NotebookApp] received signal 15, stopping
+[I 12:54:26.986 NotebookApp] Shutting down kernels
+[I 12:55:22.060 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 12:55:22.088 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 12:55:22.089 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 12:55:22.109 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 12:55:22.109 NotebookApp] 0 active kernels 
+[I 12:55:22.109 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 12:55:22.109 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:55:22.200 NotebookApp] No web browser found: could not locate runnable browser.
+[I 12:55:31.155 NotebookApp] Kernel started: 92364caa-6297-4a77-bbdc-cc206e7ec460
+[I 12:57:31.449 NotebookApp] Saving file at /Newproject.ipynb
+[I 13:00:18.070 NotebookApp] Kernel interrupted: 92364caa-6297-4a77-bbdc-cc206e7ec460
+[I 13:00:35.953 NotebookApp] Kernel interrupted: 92364caa-6297-4a77-bbdc-cc206e7ec460
+[I 13:01:31.381 NotebookApp] Saving file at /Newproject.ipynb
+[I 13:01:56.671 NotebookApp] Kernel interrupted: 92364caa-6297-4a77-bbdc-cc206e7ec460
+[I 13:03:28.594 NotebookApp] Kernel interrupted: 92364caa-6297-4a77-bbdc-cc206e7ec460
+[I 13:03:31.370 NotebookApp] Saving file at /Newproject.ipynb
+[I 13:03:57.142 NotebookApp] Kernel interrupted: 92364caa-6297-4a77-bbdc-cc206e7ec460
+[I 13:04:22.181 NotebookApp] Kernel interrupted: 92364caa-6297-4a77-bbdc-cc206e7ec460
+[I 13:05:31.382 NotebookApp] Saving file at /Newproject.ipynb
+[I 13:08:14.837 NotebookApp] Kernel interrupted: 92364caa-6297-4a77-bbdc-cc206e7ec460
+[I 13:09:31.386 NotebookApp] Saving file at /Newproject.ipynb
+[I 13:10:23.824 NotebookApp] Saving file at /Newproject.ipynb
+[I 13:10:25.507 NotebookApp] Kernel interrupted: 92364caa-6297-4a77-bbdc-cc206e7ec460
+[I 13:11:31.387 NotebookApp] Saving file at /Newproject.ipynb
+[I 13:53:31.522 NotebookApp] Saving file at /Newproject.ipynb
+[W 14:05:02.695 NotebookApp] WebSocket ping timeout after 119893 ms.
+[I 14:22:26.363 NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[W 14:22:26.395 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 14:22:26.395 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 14:22:26.423 NotebookApp] Serving notebooks from local directory: /home/i258352/nn_assignments
+[I 14:22:26.423 NotebookApp] 0 active kernels 
+[I 14:22:26.423 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:34517/
+[I 14:22:26.423 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:22:26.466 NotebookApp] No web browser found: could not locate runnable browser.
+[I 14:22:38.891 NotebookApp] Kernel started: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 14:24:38.056 NotebookApp] Saving file at /Newproject.ipynb
+[I 14:26:38.025 NotebookApp] Saving file at /Newproject.ipynb
+[I 14:32:38.102 NotebookApp] Saving file at /Newproject.ipynb
+[I 14:34:38.105 NotebookApp] Saving file at /Newproject.ipynb
+[I 14:36:38.085 NotebookApp] Saving file at /Newproject.ipynb
+[I 14:38:38.106 NotebookApp] Saving file at /Newproject.ipynb
+[I 14:40:38.121 NotebookApp] Saving file at /Newproject.ipynb
+[I 14:42:38.070 NotebookApp] Saving file at /Newproject.ipynb
