@@ -719,3 +719,6 @@ IOError: [Errno 2] No such file or directory: '/tmp/i258352/theano.NOBACKUP/nn_c
 [I 16:26:13.014 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
 [I 16:26:38.220 NotebookApp] Saving file at /Newproject.ipynb
 [I 16:33:22.680 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:35:12.943 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 16:36:38.207 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:46:59.336 NotebookApp] Saving file at /Newproject.ipynb
