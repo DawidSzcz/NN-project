@@ -700,3 +700,22 @@ IOError: [Errno 2] No such file or directory: '/tmp/i258352/theano.NOBACKUP/nn_c
 [I 15:46:38.149 NotebookApp] Saving file at /Newproject.ipynb
 [I 15:54:54.097 NotebookApp] Saving file at /Newproject.ipynb
 [I 15:57:01.892 NotebookApp] Saving file at /Newproject.ipynb
+[I 15:58:19.432 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 15:58:34.663 NotebookApp] Kernel restarted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 15:58:38.133 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:00:38.184 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:10:38.219 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:10:59.765 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 16:11:50.807 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 16:12:38.156 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:13:31.019 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 16:13:48.212 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 16:14:38.147 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:18:38.227 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:18:53.718 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 16:20:38.293 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:21:05.390 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 16:22:38.447 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:26:13.014 NotebookApp] Kernel interrupted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 16:26:38.220 NotebookApp] Saving file at /Newproject.ipynb
+[I 16:33:22.680 NotebookApp] Saving file at /Newproject.ipynb
