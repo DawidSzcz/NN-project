@@ -748,3 +748,45 @@ IOError: [Errno 2] No such file or directory: '/tmp/i258352/theano.NOBACKUP/nn_c
 [I 18:56:38.414 NotebookApp] Saving file at /Newproject.ipynb
 [I 20:26:38.561 NotebookApp] Saving file at /Newproject.ipynb
 [I 20:46:38.625 NotebookApp] Saving file at /Newproject.ipynb
+[I 02:04:39.294 NotebookApp] Saving file at /Newproject.ipynb
+[W 02:22:04.896 NotebookApp] WebSocket ping timeout after 119953 ms.
+[E 02:22:08.375 NotebookApp] Uncaught exception GET /api/kernels/b1d52b75-4551-4e67-b3bc-33d646ad3cad/channels?session_id=190260AFE53C41EABA96864BE2E0B651 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:34517', method='GET', uri='/api/kernels/b1d52b75-4551-4e67-b3bc-33d646ad3cad/channels?session_id=190260AFE53C41EABA96864BE2E0B651', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Origin': 'http://localhost:34517', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Sec-Websocket-Version': '13', 'Host': 'localhost:34517', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0', 'Connection': 'keep-alive, Upgrade', 'Sec-Websocket-Key': 'qxtgCBrJSpXDYDSeEbGQ7A==', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate'})
+    Traceback (most recent call last):
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 184, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/IPython/html/base/zmqhandlers.py", line 185, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 213, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 02:32:38.578 NotebookApp] Kernel restarted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 02:33:30.156 NotebookApp] Saving file at /Newproject.ipynb
+[I 02:44:08.949 NotebookApp] Kernel restarted: b1d52b75-4551-4e67-b3bc-33d646ad3cad
+[I 02:45:48.868 NotebookApp] Saving file at /Newproject.ipynb
+[I 03:13:48.953 NotebookApp] Saving file at /Newproject.ipynb
+[W 06:35:09.641 NotebookApp] WebSocket ping timeout after 119952 ms.
+[I 11:26:10.475 NotebookApp] Saving file at /Newproject.ipynb
+[W 11:29:08.754 NotebookApp] WebSocket ping timeout after 119885 ms.
+[E 11:29:10.886 NotebookApp] Uncaught exception GET /api/kernels/b1d52b75-4551-4e67-b3bc-33d646ad3cad/channels?session_id=0BF80F19173F4D12A51B1A9051BB80C4 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:34517', method='GET', uri='/api/kernels/b1d52b75-4551-4e67-b3bc-33d646ad3cad/channels?session_id=0BF80F19173F4D12A51B1A9051BB80C4', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Origin': 'http://localhost:34517', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Sec-Websocket-Version': '13', 'Host': 'localhost:34517', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0', 'Connection': 'keep-alive, Upgrade', 'Sec-Websocket-Key': 'KIKo3LksBqJkYsuIEPFEcg==', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate'})
+    Traceback (most recent call last):
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 184, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/pio/os/anaconda/lib/python2.7/site-packages/IPython/html/base/zmqhandlers.py", line 185, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/pio/os/anaconda/lib/python2.7/site-packages/tornado/websocket.py", line 213, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 12:51:18.189 NotebookApp] Saving file at /Newproject.ipynb
+[I 13:37:18.300 NotebookApp] Saving file at /Newproject.ipynb
+[I 13:39:18.165 NotebookApp] Saving file at /Newproject.ipynb
+[I 13:59:18.185 NotebookApp] Saving file at /Newproject.ipynb
